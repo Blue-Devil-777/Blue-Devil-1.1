@@ -3,7 +3,7 @@ add banner (use your links) :
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Blue Devil</h1>
 <h3 align="center">A passionate frontend developer from Time</h3>
-(img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif...")
+(img align="right" alt="Coding" width="400" src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif")
 - 🔭 I’m currently working on **Islam**
 
 - 📫 How to reach me **tinnimehenaj@gmail.com**
